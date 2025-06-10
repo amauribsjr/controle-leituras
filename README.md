@@ -104,7 +104,6 @@ O aplicativo estará disponível em `http://localhost:5173`
 O projeto utiliza várias ferramentas de desenvolvimento:
 
 - **ESLint**: Para garantir qualidade do código
-- **Prettier**: Para formatação consistente
 - **TypeScript**: Para tipagem estática (via @types)
 - **SWC**: Para compilação rápida
 
